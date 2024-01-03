@@ -2,6 +2,8 @@
 
 **Problem statement:** Build an LLM model that can interact in a chat-based manner to suggest comprehensive movie recommendations for you once you provide it with past data.
 
+🤗 Transformers Link: https://huggingface.co/charoori/llm4movies
+
 To enhance the accuracy of the language learning model (LLM) in providing movie recommendations, we are leveraging the MovieLens dataset. This dataset encompasses movie ratings from 942 users across 1,682 distinct movies. The strategy for fine-tuning the LLM is methodical and focuses on developing its ability to predict individual user preferences with higher precision.
 
 ![Alt text](image.png)
