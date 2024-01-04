@@ -4,6 +4,14 @@
 
 🤗 Transformers Link: https://huggingface.co/charoori/llm4movies
 
+#### Demo
+
+
+https://github.com/Exorust/LLM-movie-recommender/assets/20578676/c960d1d9-6b9a-43bd-96c5-25407b700ee9
+
+
+
+
 To enhance the accuracy of the language learning model (LLM) in providing movie recommendations, we are leveraging the MovieLens dataset. This dataset encompasses movie ratings from 942 users across 1,682 distinct movies. The strategy for fine-tuning the LLM is methodical and focuses on developing its ability to predict individual user preferences with higher precision.
 
 ![Alt text](image.png)
